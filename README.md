@@ -26,15 +26,6 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td>DUT-Adv</td>
-      <td align="left">Augments <a href="https://github.com/wangdongdut/DUT-Anti-UAV">DUT-Anti-UAV</a> dataset with real-world degradations such as rain, fog, and motion blur that reduce contrast and obscure target edges.</td>
-      <td>5,200</td>
-      <td>1,600</td>
-      <td>1,200</td>
-      <td><a href="https://pan.baidu.com/s/16m355KcTOcj8NBVUPGcY5w">link</a></td>
-      <td>---</td>
-    </tr>
-    <tr>
       <td>DUT-Plus</td>
       <td align="left">Extends <a href="https://github.com/wangdongdut/DUT-Anti-UAV">DUT-Anti-UAV</a> dataset with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
       <td>7,000</td>
