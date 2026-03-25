@@ -26,15 +26,6 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td>DUT-Plus</td>
-      <td align="left">Extends <a href="https://github.com/wangdongdut/DUT-Anti-UAV">DUT-Anti-UAV</a> dataset with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
-      <td>7,000</td>
-      <td>4,000</td>
-      <td>3,000</td>
-      <td><a href="https://pan.baidu.com/s/16m355KcTOcj8NBVUPGcY5w">link</a></td>
-      <td>---</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/Jake-WU/Det-Fly">Det-Fly</a></td>
       <td align="left">Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
       <td>7,962</td>
@@ -73,7 +64,7 @@
       <td>52.1</td>
       <td>88.5</td>
       <td>56.1</td>
-      <td><a href="https://pan.baidu.com/s/1pFTLUklIknTazA3jgNc7Kg?pwd=5xhd">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1TGGBPvaKAQ379NrEAthtyA?pwd=ayqn">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -85,7 +76,7 @@
       <td>55.6</td>
       <td>90.5</td>
       <td>61.5</td>
-      <td><a href="https://pan.baidu.com/s/1VQZyIhzROvzcFNuSndo2Hg?pwd=esm9">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1hMhqoA0m5HlVXXVEknsPTQ?pwd=d35c">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -97,7 +88,7 @@
       <td>60.6</td>
       <td>93.8</td>
       <td>69.6</td>
-      <td><a href="https://pan.baidu.com/s/10M4eFKtz-xpWRoZvpqoXLg?pwd=4irr">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1qmLtjZY9pHvqrOa57U672w?pwd=twse">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -109,7 +100,7 @@
       <td>61.7</td>
       <td>94.4</td>
       <td>70.5</td>
-      <td><a href="https://pan.baidu.com/s/1pp2OKEsAdtOH95TPffYayw?pwd=r2jd">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1hEwWU5g312wbe_gpLXEQ5w?pwd=ym5m">weight</a></td>
       <td>---</td>
     </tr>
     <tr>
@@ -121,7 +112,7 @@
       <td>62.6</td>
       <td>94.5</td>
       <td>72.1</td>
-      <td><a href="https://pan.baidu.com/s/19_H5r_AC-o1FOLpbKV4frA?pwd=8bh8">weight</a></td>
+      <td><a href="https://pan.baidu.com/s/1HLqDItxTRWZfLyjZ5TXmtw?pwd=f93f">weight</a></td>
       <td>---</td>
     </tr>
   </tbody>
@@ -204,20 +195,6 @@ This project is based on the open source codebase [YOLO (Ultralytics)](https://g
   month={jan},
   license={AGPL-3.0},
   url={https://github.com/ultralytics/ultralytics}
-}
-```
-
-
-This project utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset to create new augmented datasets for training and evaluation.
-
-```
-@article{Dut-Anti-UAV,
-  title={Vision-Based Anti-UAV Detection and Tracking},
-  author={Jie Zhao and Jingshu Zhang and Dongdong Li and D. Wang},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2022},
-  volume={23},
-  pages={25323-25334}
 }
 ```
 
