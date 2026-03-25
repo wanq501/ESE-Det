@@ -8,7 +8,7 @@
 
 </div>
 </h1>
-<img src="Assets/fig1.jpg" width="1500">
+<img src="Assets/fig1.png" width="1500">
 
 
 ## DataSet  
@@ -25,15 +25,6 @@
     </tr>
   </thead>
   <tbody align="center">
-    <tr>
-      <td>DUT-Adv</td>
-      <td align="left">Augments <a href="https://github.com/wangdongdut/DUT-Anti-UAV">DUT-Anti-UAV</a> dataset with real-world degradations such as rain, fog, and motion blur that reduce contrast and obscure target edges.</td>
-      <td>5,200</td>
-      <td>1,600</td>
-      <td>1,200</td>
-      <td><a href="https://pan.baidu.com/s/16m355KcTOcj8NBVUPGcY5w">link</a></td>
-      <td>---</td>
-    </tr>
     <tr>
       <td>DUT-Plus</td>
       <td align="left">Extends <a href="https://github.com/wangdongdut/DUT-Anti-UAV">DUT-Anti-UAV</a> dataset with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
@@ -75,7 +66,7 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td>DQEF-Net-T</td>
+      <td>ESE-Det-N</td>
       <td>640</td>
       <td>200</td>
       <td>2.9</td>
@@ -87,7 +78,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>DQEF-Net-S</td>
+      <td>ESE-Det-S</td>
       <td>640</td>
       <td>200</td>
       <td>10.6</td>
@@ -99,7 +90,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>DQEF-Net-M</td>
+      <td>ESE-Det-M</td>
       <td>640</td>
       <td>200</td>
       <td>21.8</td>
@@ -111,7 +102,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>DQEF-Net-L</td>
+      <td>ESE-Det-L</td>
       <td>640</td>
       <td>200</td>
       <td>32.6</td>
@@ -123,7 +114,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>DQEF-Net-X</td>
+      <td>ESE-Det-X</td>
       <td>640</td>
       <td>200</td>
       <td>65.2</td>
