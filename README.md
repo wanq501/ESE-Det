@@ -45,7 +45,6 @@
     </tr>
   </tbody>
 </table>
-<img src="Assets/fig2.jpg" width="1500">
 
 ## Model Zoo  
 
@@ -69,11 +68,11 @@
       <td>ESE-Det-N</td>
       <td>640</td>
       <td>200</td>
-      <td>2.9</td>
-      <td>9.4</td>
-      <td>58.1</td>
-      <td>89.4</td>
-      <td>66.4</td>
+      <td>2.0</td>
+      <td>9.3</td>
+      <td>52.1</td>
+      <td>88.5</td>
+      <td>56.1</td>
       <td><a href="https://pan.baidu.com/s/1pFTLUklIknTazA3jgNc7Kg?pwd=5xhd">weight</a></td>
       <td>---</td>
     </tr>
@@ -81,11 +80,11 @@
       <td>ESE-Det-S</td>
       <td>640</td>
       <td>200</td>
-      <td>10.6</td>
-      <td>24.3</td>
-      <td>60.4</td>
-      <td>91.7</td>
-      <td>68.8</td>
+      <td>6.5</td>
+      <td>22.0</td>
+      <td>55.6</td>
+      <td>90.5</td>
+      <td>61.5</td>
       <td><a href="https://pan.baidu.com/s/1VQZyIhzROvzcFNuSndo2Hg?pwd=esm9">weight</a></td>
       <td>---</td>
     </tr>
@@ -93,11 +92,11 @@
       <td>ESE-Det-M</td>
       <td>640</td>
       <td>200</td>
-      <td>21.8</td>
-      <td>68.1</td>
-      <td>62.0</td>
-      <td>92.6</td>
-      <td>70.8</td>
+      <td>13.0</td>
+      <td>39.4</td>
+      <td>60.6</td>
+      <td>93.8</td>
+      <td>69.6</td>
       <td><a href="https://pan.baidu.com/s/10M4eFKtz-xpWRoZvpqoXLg?pwd=4irr">weight</a></td>
       <td>---</td>
     </tr>
@@ -105,11 +104,11 @@
       <td>ESE-Det-L</td>
       <td>640</td>
       <td>200</td>
-      <td>32.6</td>
-      <td>81.6</td>
-      <td>62.2</td>
-      <td>92.7</td>
-      <td>71.7</td>
+      <td>25.0</td>
+      <td>68.4</td>
+      <td>61.7</td>
+      <td>94.4</td>
+      <td>70.5</td>
       <td><a href="https://pan.baidu.com/s/1pp2OKEsAdtOH95TPffYayw?pwd=r2jd">weight</a></td>
       <td>---</td>
     </tr>
@@ -117,18 +116,18 @@
       <td>ESE-Det-X</td>
       <td>640</td>
       <td>200</td>
-      <td>65.2</td>
-      <td>172.6</td>
-      <td>63.0</td>
-      <td>93.2</td>
-      <td>72.2</td>
+      <td>54.3</td>
+      <td>133.6</td>
+      <td>62.6</td>
+      <td>94.5</td>
+      <td>72.1</td>
       <td><a href="https://pan.baidu.com/s/19_H5r_AC-o1FOLpbKV4frA?pwd=8bh8">weight</a></td>
       <td>---</td>
     </tr>
   </tbody>
 </table>
 
-- Results of the mAP are evaluated on the DUT-Plus dataset with an input resolution of 640×640.
+- Results of the mAP are evaluated on the Det-Fly dataset with an input resolution of 640×640.
 - All models are trained without using pretrained weights.
 
 
@@ -138,8 +137,8 @@
 1. Clone and enter the repo.
 
    ```shell
-   git clone https://github.com/wanq501/DQEF-Net.git
-   cd DQEF-Net
+   git clone https://github.com/wanq501/ESE-Net.git
+   cd ESE-Net
    ```
 
 2. Install dependencies
