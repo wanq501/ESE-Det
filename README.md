@@ -1,5 +1,5 @@
 <h1> 
-  <p align=center> ESE-Det: Edge Structure Enhanced Detector for Real-time Drone Detection </p>
+  <p align=center> PEFE-Det: Progressive Edge Feature Enhancement for Long-Range Drone Detection </p>
 <div align="center">
 
 ![Python 3.9](https://img.shields.io/badge/python-3.9-g)
@@ -56,7 +56,7 @@
   </thead>
   <tbody align="center">
     <tr>
-      <td>ESE-Det-N</td>
+      <td>PEFE-Det-N</td>
       <td>640</td>
       <td>200</td>
       <td>2.0</td>
@@ -68,7 +68,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>ESE-Det-S</td>
+      <td>PEFE-Det-S</td>
       <td>640</td>
       <td>200</td>
       <td>6.5</td>
@@ -80,7 +80,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>ESE-Det-M</td>
+      <td>PEFE-Det-M</td>
       <td>640</td>
       <td>200</td>
       <td>13.0</td>
@@ -92,7 +92,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>ESE-Det-L</td>
+      <td>PEFE-Det-L</td>
       <td>640</td>
       <td>200</td>
       <td>25.0</td>
@@ -104,7 +104,7 @@
       <td>---</td>
     </tr>
     <tr>
-      <td>ESE-Det-X</td>
+      <td>PEFE-Det-X</td>
       <td>640</td>
       <td>200</td>
       <td>54.3</td>
