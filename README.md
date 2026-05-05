@@ -128,8 +128,8 @@
 1. Clone and enter the repo.
 
    ```shell
-   git clone https://github.com/wanq501/ESE-Net.git
-   cd ESE-Net
+   git clone https://github.com/wanq501/PEFE-Det.git
+   cd PEFE-Det
    ```
 
 2. Install dependencies
