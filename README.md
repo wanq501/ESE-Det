@@ -28,7 +28,7 @@
     <tr>
       <td><a href="https://github.com/Jake-WU/Det-Fly">Det-Fly</a></td>
       <td align="left">Contains over 13,000 high-resolution 4K aerial images. Long-range imaging causes targets to occupy &lt;5% of image area, reducing discriminative features.</td>
-      <td>7,962</td>
+      <td>7,963</td>
       <td>2,654</td>
       <td>2,654</td>
       <td>---</td>
